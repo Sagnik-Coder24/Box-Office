@@ -5,7 +5,6 @@ The Box-Office Web App is a platform designed for movie enthusiasts, industry pr
 ## Features
 
 - Search for movies by title
-- Display box office earnings
 - View detailed movie information
 - Responsive design
 
@@ -13,7 +12,7 @@ The Box-Office Web App is a platform designed for movie enthusiasts, industry pr
 
 - React.js
 - React Router
-- Axios
+- Fetch
 - CSS
 
 ## API Reference
