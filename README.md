@@ -1,6 +1,6 @@
 # Box-Office Web App
 
-The Box-Office Web App is a platform designed for movie enthusiasts, industry professionals, and casual viewers to explore and track box office performance data. It provides features like real-time box office numbers, movie rankings, release schedules, and detailed analytics about film performance.
+The Box-Office Web App is a user-friendly platform for discovering movies, web series, and details about actors. Built with React.js the app allows users to search for titles, explore detailed information, including release dates, ratings, and actor profiles, all within a smooth, responsive interface. Using the TVmaze API, the app fetches real-time data to keep users updated on the latest films, series, and their stars.
 
 ## Features
 
